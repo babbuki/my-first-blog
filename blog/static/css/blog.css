@@ -1,4 +1,5 @@
 body {
+    background-image: url("https://t3.ftcdn.net/jpg/00/84/52/09/240_F_84520930_txU4l2GDZf4ncvqPr1gyRFBwcQ7DEu0x.jpg");
     padding-left: 15px;
 }
 
@@ -8,7 +9,7 @@ h1 a {
 }
 
 .page-header {
-    background-color: #ff9400;
+    background-color: #3399CC;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
